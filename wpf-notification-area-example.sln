@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf-notification-area-example", "wpf-notification-area-example\wpf-notification-area-example.csproj", "{264CC63F-7B85-4C36-BF58-6534A7994245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264CC63F-7B85-4C36-BF58-6534A7994245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264CC63F-7B85-4C36-BF58-6534A7994245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264CC63F-7B85-4C36-BF58-6534A7994245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264CC63F-7B85-4C36-BF58-6534A7994245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FE09E1C-C30B-4DF2-B7D5-298E9DE602E5}
+	EndGlobalSection
+EndGlobal
